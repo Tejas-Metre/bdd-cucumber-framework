@@ -1,0 +1,54 @@
+
+# =============================
+# Maven build output
+# =============================
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# =============================
+# Eclipse-specific files
+# =============================
+.classpath
+.project
+.settings/
+.apt_generated/
+.springBeans/
+.sts4-cache/
+.factorypath/
+
+# =============================
+# IntelliJ IDEA-specific files (optional support)
+# =============================
+.idea/
+*.iml
+out/
+
+# =============================
+# VS Code-specific files (optional)
+# =============================
+.vscode/
+
+# =============================
+# OS-specific junk files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Log, backup, and temp files
+# =============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =============================
+# Test Reports
+# =============================
+test-output/
+
+
+# =============================
+# Java build tools
+# =============================
+/build/
